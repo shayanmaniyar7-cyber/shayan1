@@ -1,3 +1,3 @@
 # shayan1
 git repository
-author-shayan maniyar
+author-(shayan maniyar)
